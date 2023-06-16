@@ -9,5 +9,4 @@ parts:
   - file: python-exos/basic/adnpercents-readme-nb
   - file: python-exos/basic/files-scanext-nb
   - file: python-exos/basic/files-sortby-nb
-  - file: python-exos/advanced/randomdate-readme-nb
 root: README
